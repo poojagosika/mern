@@ -1,0 +1,73 @@
+MERN – MONGO DB, EXPRESS JS, REACT JS, NODE JS
+FRONT-END: THE UI PART
+
+
+BACK-END : THE DATA PART (SERVER)
+
+REACT V ANGULAR
+
+REACT WILL NOT RELOAD | ANGULAR WILL ASK SERVER TO GIVE THE RESPONSE AND KEEPS RELOADING
+
+WHY DO WE NEED TO USE INDEX.HTML
+
+INDEX.HTML IS THE FIRST COMPONENT THAT IS CHECKED BY ANY BROWSER 
+INDEX.HTML – FIRST PREFERENCE 
+NOTEPAD V VSCODE
+
+NOTEPAD IS A NORMAL PAGE AND EVERYTHING NEEDS TO BE WRITTEN
+FOR
+VSCODE GIVES U EVERYTHING SUCH AS EXTENSION TO WHAT COMES NEXT AFTER A WORD OR LETTER IS TYPED
+Html or ! gives the full abbreviation of the whole html tags
+
+<html>
+<head>
+<title>
+The name of the website
+</title>
+<body>
+The whole data to be written here
+</body>
+
+
+<h1>The highest heading with bigger size </h1>
+We need to use h1 only once while creating a website
+Ctr1 1 – 2 3 4 switched each tab u want 
+
+alt tab switches tabs
+Ctrl 0 enables u to comes back to the original tab size 100
+When live server is closed, click alt l o then we can closed live server
+
+<br> tag breaks the statement and comes to new line
+We don’t use opening n closing tag for br, only single tag can be used for br
+Alt is the value and any link is the attribute which means anything in double quotes is an attribute
+
+=============================================================================================================
+
+DAY 2 | 02-03-2023
+
+============================================
+
+figma templates
+wave evaluation tool - extension for blind people who cannot see
+
+========================================
+difference between html and html5
+
+html - old version
+
+html5 - new features, tags, elements
+
+audio, video, address
+
+
+- alt up-arrow
+
+
+16px - 1 rem
+
+padding 
+
+              |
+                   --
+         |
+    --

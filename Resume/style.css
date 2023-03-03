@@ -1,0 +1,43 @@
+body{
+    padding-inline: none;
+}
+
+.main-heading{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.description
+{
+    font-size: 2rem;
+    text-align: center;
+}
+table{
+    padding-right: 20px;
+    box-sizing: centre;
+}
+thead
+{
+    background-color: rgb(151, 151, 151);
+    color: white;
+}
+table, thead,tbody{
+    width: 100%;
+}
+
+thead,tbody,th,td
+{
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px 50px 1px;
+}
+table, th,td{
+    border-collapse: collapse;
+}
+.heading1{
+    background-color: grey;
+}
+.para-languages
+{
+    font-size: 24px;
+}
