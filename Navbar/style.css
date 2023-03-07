@@ -1,0 +1,74 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.icons-info
+{
+    background-color: #d3d3d3;
+    font-size: 18px;
+    padding: 10px;
+}
+.fa-instagram
+{
+    color: #a80490;
+}
+.fa-facebook
+{
+    color: #484aac;
+}
+.fa-twitter
+{
+    color: #3db1b3;
+}
+.top-nav-bar
+{
+    text-align: right;
+}
+.icons
+{
+    word-spacing: 20px;
+    float:left;
+    padding-left:20px;
+    font-size: 20px;
+}
+.details
+{
+    color: #3d3d3d;
+}
+i
+{
+    color: #7a7a7a;
+    opacity: 0.8;
+}
+a{
+    text-decoration: none;
+    padding-right: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav
+{
+    background-color: #3d1793;
+    padding: 20px;
+    text-align: right;
+    
+}
+
+li
+{
+    font-size: 20px;
+    display: inline;
+    padding: 10px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    background-color: #6062b2;
+    border-radius: 4px;
+}
+li:hover
+{
+    color:#000000;
+    background-color: #00ffee;
+    cursor: pointer;
+    transition: 0.2s;
+}
